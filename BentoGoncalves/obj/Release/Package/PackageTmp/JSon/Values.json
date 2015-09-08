@@ -1,0 +1,204 @@
+[{
+	"source": "EP",
+	"target": "ENT",
+	"value": 180704851.78,
+	"budget": 180704851.78
+},
+{
+	"source": "EP",
+	"target": "NR",
+	"value": 140760186.24,
+	"budget": 140760186.24
+},
+{
+	"source": "ENT",
+	"target": "IPTU",
+	"value": 6916321.13,
+	"budget": 7875694
+},
+{
+	"source": "ENT",
+	"target": "IRRF",
+	"value": 4738244.49,
+	"budget": 7113000
+},
+{
+	"source": "ENT",
+	"target": "ITBI",
+	"value": 3589943.12,
+	"budget": 9970000
+},
+{
+	"source": "ENT",
+	"target": "ISS",
+	"value": 16620370.44,
+	"budget": 21152000
+},
+{
+	"source": "ENT",
+	"target": "TAXAS",
+	"value": 16132032.59,
+	"budget": 21651700
+},
+{
+	"source": "ENT",
+	"target": "CM",
+	"value": 1123.99,
+	"budget": 1400000
+},
+{
+	"source": "ENT",
+	"target": "CIP",
+	"value": 2113242.02,
+	"budget": 3400000
+},
+{
+	"source": "ENT",
+	"target": "RP",
+	"value": 2891297.59,
+	"budget": 7098968.73
+},
+{
+	"source": "ENT",
+	"target": "RDS",
+	"value": 336197.35,
+	"budget": 497300
+},
+{
+	"source": "ENT",
+	"target": "RMEJDM",
+	"value": 1041248.2,
+	"budget": 1363900
+},
+{
+	"source": "ENT",
+	"target": "RIER",
+	"value": 224332.14,
+	"budget": 84500
+},
+{
+	"source": "ENT",
+	"target": "RDDA",
+	"value": 1755574.39,
+	"budget": 3230300
+},
+{
+	"source": "ENT",
+	"target": "RD",
+	"value": 34832.39,
+	"budget": 33000
+},
+{
+	"source": "ENT",
+	"target": "RDC",
+	"value": 4950724.42,
+	"budget": 43776599.27
+},
+{
+	"source": "ENT",
+	"target": "ICMS",
+	"value": 40158232.87,
+	"budget": 80000000
+},
+{
+	"source": "ENT",
+	"target": "IPVA",
+	"value": 11701611.02,
+	"budget": 13600000
+},
+{
+	"source": "ENT",
+	"target": "CPIE",
+	"value": 825247.1,
+	"budget": 1520000
+},
+{
+	"source": "ENT",
+	"target": "CIDE",
+	"value": 13224.96,
+	"budget": 0.00001
+},
+{
+	"source": "ENT",
+	"target": "TDEPS",
+	"value": 3067533.72,
+	"budget": 9480000
+},
+{
+	"source": "ENT",
+	"target": "OTDE",
+	"value": 495699.22,
+	"budget": 800000
+},
+{
+	"source": "ENT",
+	"target": "FPM",
+	"value": 17095261.2,
+	"budget": 31990000
+},
+{
+	"source": "ENT",
+	"target": "TRN",
+	"value": 476281.82,
+	"budget": 1417000
+},
+{
+	"source": "ENT",
+	"target": "TPOS",
+	"value": 21827931.79,
+	"budget": 43408000
+},
+{
+	"source": "ENT",
+	"target": "TPOFN",
+	"value": 300508.71,
+	"budget": 1149000
+},
+{
+	"source": "ENT",
+	"target": "TPOF",
+	"value": 2504432.75,
+	"budget": 3447800
+},
+{
+	"source": "ENT",
+	"target": "TDI",
+	"value": 307499.9,
+	"budget": 536200
+},
+{
+	"source": "ENT",
+	"target": "OT",
+	"value": 0,
+	"budget": 1000000
+},
+{
+	"source": "ENT",
+	"target": "TDM",
+	"value": 0,
+	"budget": 0.01
+},
+{
+	"source": "ENT",
+	"target": "TMF",
+	"value": 18472292.31,
+	"budget": 901000
+},
+{
+	"source": "ENT",
+	"target": "TIP",
+	"value": 120984.82,
+	"budget": 2000
+},
+{
+	"source": "ENT",
+	"target": "TDP",
+	"value": 16933.88,
+	"budget": 1332038
+},
+{
+	"source": "ENT",
+	"target": "TDC",
+	"value": 1975691.45,
+	"budget": 2235038.01
+}]

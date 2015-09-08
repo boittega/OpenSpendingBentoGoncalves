@@ -1,0 +1,236 @@
+﻿[
+{
+	"type": "EntradaP",
+	"id": "EP",
+	"parent": "null",
+	"name": "Entradas Previstas"
+},
+{
+	"type": "Entrada",
+	"id": "ENT",
+	"parent": "null",
+	"name": "Entradas"
+},
+{
+	"type": "RPM",
+	"id": "RPM",
+	"parent": "null",
+	"name": "RECEITAS PRÓPRIAS MUNICIPAIS"
+},
+{
+	"type": "RPM",
+	"id": "IPTU",
+	"parent": "RPM",
+	"name": "IPTU"
+},
+{
+	"type": "RPM",
+	"id": "IRRF",
+	"parent": "RPM",
+	"name": "IRRF"
+},
+{
+	"type": "RPM",
+	"id": "ITBI",
+	"parent": "RPM",
+	"name": "ITBI"
+},
+{
+	"type": "RPM",
+	"id": "ISS",
+	"parent": "RPM",
+	"name": "ISS"
+},
+{
+	"type": "RPM",
+	"id": "TAXAS",
+	"parent": "RPM",
+	"name": "TAXAS"
+},
+{
+	"type": "RPM",
+	"id": "CM",
+	"parent": "RPM",
+	"name": "Contribuição Melhoria"
+},
+{
+	"type": "RPM",
+	"id": "CIP",
+	"parent": "RPM",
+	"name": "Custeio Iluminação Pública"
+},
+{
+	"type": "RPM",
+	"id": "RP",
+	"parent": "RPM",
+	"name": "Receita Patrimonial"
+},
+{
+	"type": "RPM",
+	"id": "RDS",
+	"parent": "RPM",
+	"name": "Receita De Serviços"
+},
+{
+	"type": "RPM",
+	"id": "RMEJDM",
+	"parent": "RPM",
+	"name": "Receita Multas E Juros De Mora"
+},
+{
+	"type": "RPM",
+	"id": "RIER",
+	"parent": "RPM",
+	"name": "Receita Indenizações E Restituições"
+},
+{
+	"type": "RPM",
+	"id": "RDDA",
+	"parent": "RPM",
+	"name": "Receita De Dívida Ativa"
+},
+{
+	"type": "RPM",
+	"id": "RD",
+	"parent": "RPM",
+	"name": "Receita DIVERSAS"
+},
+{
+	"type": "RPM",
+	"id": "RDC",
+	"parent": "RPM",
+	"name": "Receita De Capital"
+},
+{
+	"type": "RDTE",
+	"id": "RDTE",
+	"parent": "null",
+	"name": "RECEITAS DE TRANSFERENCIAS ESTADUAIS"
+},
+{
+	"type": "RDTE",
+	"id": "ICMS",
+	"parent": "RDTE",
+	"name": "ICMS"
+},
+{
+	"type": "RDTE",
+	"id": "IPVA",
+	"parent": "RDTE",
+	"name": "IPVA"
+},
+{
+	"type": "RDTE",
+	"id": "CPIE",
+	"parent": "RDTE",
+	"name": "Cota Parte IPI Exportação"
+},
+{
+	"type": "RDTE",
+	"id": "CIDE",
+	"parent": "RDTE",
+	"name": "CIDE"
+},
+{
+	"type": "RDTE",
+	"id": "TDEPS",
+	"parent": "RDTE",
+	"name": "Transferencias Do Estado Para Saúde"
+},
+{
+	"type": "RDTE",
+	"id": "OTDE",
+	"parent": "RDTE",
+	"name": "Outras Transferencias Do Estado"
+},
+{
+	"type": "RDTF",
+	"id": "RDTF",
+	"parent": "null",
+	"name": "RECEITAS DE TRANSFERENCIAS FEDERAIS"
+},
+{
+	"type": "RDTF",
+	"id": "FPM",
+	"parent": "RDTF",
+	"name": "FPM"
+},
+{
+	"type": "RDTF",
+	"id": "TRN",
+	"parent": "RDTF",
+	"name": "Transferencias Recursos Naturais"
+},
+{
+	"type": "RDTF",
+	"id": "TPOS",
+	"parent": "RDTF",
+	"name": "Transferencias Para O SUS"
+},
+{
+	"type": "RDTF",
+	"id": "TPOFN",
+	"parent": "RDTF",
+	"name": "Transferencias Para O FNAS"
+},
+{
+	"type": "RDTF",
+	"id": "TPOF",
+	"parent": "RDTF",
+	"name": "Transferencias Para O FNDE"
+},
+{
+	"type": "RDTF",
+	"id": "TDI",
+	"parent": "RDTF",
+	"name": "Transferencias Desoneração ICMS"
+},
+{
+	"type": "RDTF",
+	"id": "OT",
+	"parent": "RDTF",
+	"name": "Outras Transf.União"
+},
+{
+	"type": "OTC",
+	"id": "OTC",
+	"parent": "null",
+	"name": "OUTRAS TRANSFERENCIAS CORRENTES"
+},
+{
+	"type": "OTC",
+	"id": "TDM",
+	"parent": "OTC",
+	"name": "Transferencias Dos Municipios"
+},
+{
+	"type": "OTC",
+	"id": "TMF",
+	"parent": "OTC",
+	"name": "Transferencias Multigov. FUNDEB"
+},
+{
+	"type": "OTC",
+	"id": "TIP",
+	"parent": "OTC",
+	"name": "Transferencias Instituições Privadas"
+},
+{
+	"type": "OTC",
+	"id": "TDP",
+	"parent": "OTC",
+	"name": "Transferencias De Pessoas"
+},
+{
+	"type": "OTC",
+	"id": "TDC",
+	"parent": "OTC",
+	"name": "Transferencias De Convenios"
+},
+{
+	"type": "NRecebido",
+	"id": "NR",
+	"parent": "null",
+	"name": "Não Recebido"
+}
+]
